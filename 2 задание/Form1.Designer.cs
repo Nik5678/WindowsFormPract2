@@ -72,7 +72,6 @@
             labelGreeting.Name = "labelGreeting";
             labelGreeting.Size = new Size(373, 44);
             labelGreeting.TabIndex = 2;
-            labelGreeting.Text = "label1";
             labelGreeting.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // Form1

@@ -1,0 +1,17 @@
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\bin\Debug\net8.0-windows\2 задание.exe
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\bin\Debug\net8.0-windows\2 задание.deps.json
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\bin\Debug\net8.0-windows\2 задание.runtimeconfig.json
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\bin\Debug\net8.0-windows\2 задание.dll
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\bin\Debug\net8.0-windows\2 задание.pdb
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\obj\Debug\net8.0-windows\_2_задание.Form1.resources
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\obj\Debug\net8.0-windows\2 задание.csproj.GenerateResource.cache
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\obj\Debug\net8.0-windows\2 задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\obj\Debug\net8.0-windows\2 задание.AssemblyInfoInputs.cache
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\obj\Debug\net8.0-windows\2 задание.AssemblyInfo.cs
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\obj\Debug\net8.0-windows\2 задание.csproj.CoreCompileInputs.cache
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\obj\Debug\net8.0-windows\2 задание.dll
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\obj\Debug\net8.0-windows\refint\2 задание.dll
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\obj\Debug\net8.0-windows\2 задание.pdb
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\obj\Debug\net8.0-windows\2 задание.genruntimeconfig.cache
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\obj\Debug\net8.0-windows\ref\2 задание.dll
+C:\Users\Sollist\Documents\ЛАБЫ\С#\WindowsFormPract\2 задание wf\2 задание\2 задание\obj\Debug\net8.0-windows\2 задание.sourcelink.json
